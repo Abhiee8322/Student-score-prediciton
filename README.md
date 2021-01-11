@@ -1,2 +1,2 @@
-# TSF-Task-1-
+# logisitic Regression-
 Predicting the score of student based upon number of hours studied
